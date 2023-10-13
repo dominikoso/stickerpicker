@@ -1,0 +1,12 @@
+{
+  "packs": [
+    "Reakcyjne.json",
+    "nekostickerpack698.json",
+    "ComeToTheDarkSide.json",
+    "uno_cards.json",
+    "Menhera_Chan_EN.json",
+    "pusheen02.json",
+    "Edgerunners.json"
+  ],
+  "homeserver_url": "https://synapse.dominikoso.me"
+}

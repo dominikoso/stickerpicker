@@ -1,12 +1,8 @@
 {
   "packs": [
+    "LINE_Menhera_chan_2_ENG.json",
     "Reakcyjne.json",
-    "nekostickerpack698.json",
-    "ComeToTheDarkSide.json",
-    "uno_cards.json",
-    "Menhera_Chan_EN.json",
-    "pusheen02.json",
-    "Edgerunners.json"
+    "uno_cards.json"
   ],
-  "homeserver_url": "https://synapse.dominikoso.me"
+  "homeserver_url": "https://synapse.dominikoso.me/"
 }
